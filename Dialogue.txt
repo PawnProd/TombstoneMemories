@@ -1,0 +1,102 @@
+ORACLE :
+
+ 1) Bonsoir jeune spectre ! Tu as l'air perdu. Si tu souhaite trouver la paix et le repos 
+éternel, tu dois comprendre ce qu'il t'ai arrivé. Lors de la mort, l'âme se fragmente en 3
+parties. Retrouve ces fragments, ils te montreront comment trouver la paix. J'en possède
+actuellement un ! Je te l'échange contre une pièce rouillé. Tu n'as qu'à fouiller dans
+le cimetière, je suis sur que trouvera ça sur un vieux squelette. Oh ! Une dernière chose.
+Ta quête te mènera surement dans des impasses. N'hésite pas à venir me voir, je pourrais te
+faire réapparaitre à ta tombe et remettre le cimetière dans l'état où il était quand tu
+es sorti la première fois !
+
+2) Te revoila jeune spectre ! As tu trouvé une pièce rouillé ? Ou souhaite tu juste renaître
+de tes cendres ?
+
+3) Oh ! Cette pièce va m'être très utile ! Pour te remercier voici un fragment de ton âme !
+
+CADAVRE:
+
+1) Vous apercevez un objet brillant coincé dans les côtés d'un squelette pourrissant.
+
+2) C'est juste un cadavre. Arrêtez de le regarder, ça devient vraiment gênant.
+
+3) Vous venez de brûler le cadavre du spectre. Qu'il repose en paix. Monstre. J'espère que
+vous avez honte. En plus je suis sur qu'il à souffert.
+
+GARDIEN :
+
+1) Ah ! Sale petit spectre ! Laisse moi tranquille ! J'ai perdu ma deuxième pelle ! J'adore
+mes pelles !
+
+2) Vous frappez le gardien dans le dos avec la pelle. Il tombe lourdement au sol et laisse
+s'échapper de sa poche des clés. Vous récupérez les clés, elles pourront certainement servir
+plus tard.
+
+3) Encore ce sale spectre ! Il vient tout le temps me mettre en rogne. La dernière fois, il
+m'a fait venir jusqu'ici et il a même osé m'assomer. S'il continue je vais bruler son cadavre 
+et le renvoyer là d'où il vient !
+
+SPECTRE :
+
+1) Oh ! Bonjour cher ami ! Comment allez vous ? Vous n'avez pas trouvé la paix ? Vous avez
+vu le grand cierge au centre de la chapelle ? Il me fait peur ! Il parait qu'il est magique.
+Mais bon, je ne l'ai jamais vu allumé. Je ne peux pas dire si c'est vrai.
+
+2) C'est encore vous ? Je vous avais dit que j'aimais bien embêter le gardien ? J'aime bien
+quand il est grognon ! Si vous voulez je peux m'occuper de lui pour vous ! Mais seulement
+en échange de quelque chose. J'ai perdu ma pièce porte-bonheur à ma mort. Vous pouvez là 
+retrouver et me là rapporter ?
+
+3) Merci beaucoup ! Je vais de ce pas m'occuper du gardien ! On va bien s'amuser ! Haha !
+
+4) J'ai bien rigolé ! Faite vite, le gardien va pas tarder à retourner à ses activités !
+
+5) Je ne comprends pas, le gardien n'a pas bougé ! D'habitude il vient tout le temps ! Je
+suis vraiment désolé.
+
+CIERGE
+
+1) C'est un simple cierge. En regardant de plus près vous remarquez des glyphes étranges.
+
+2) Le cierge se met à s'éclairer d'une lumière bleu intense. Au bout de quelques instants un 
+fragment d'âme apparait sur l'autel !
+
+3) Les mystérieux glyphes ont disparu depuis que vous avez allumé le cierge.
+
+FAUCHEUSE
+
+1) Hum, encore un spectre qui n'a pas trouvé la paix. Tu recherches tes fragments d'âme ? 
+Une fois que tu les auras récupérés rend toi sur le lieu de ta mort et tu trouveras la paix.
+Maintenant part et ne revient que quand tu auras tes fragments.
+
+2) Tu es prêt ? Moi non. Je dois d'abord ramener un spectre au royaume des morts. Mais
+son cadavre le retient ici. Une fois ce problème réglé, je te rejoindrais au lieu
+de ta mort.
+
+3) Bien, tu es prêt à partir ? Une fois ce voyage effectué, tu ne pourras plus revenir en 
+arrière ! 
+
+PELLE
+
+1) On dirait l'une des pelles du gardien ! Elle pourrait me servir pour me frayer un chemin
+ou alors je pourrais m'en servir comme d'une arme !
+
+TORCHE
+
+1) C'est une simple torche. Cependant, elle pourrait peut être servir !
+
+GATE
+
+1) La porte d'accès a l'air verrouiller. Mais qui peut bien possèder la clé nécessaire ?
+
+EBOUELLEMENT
+
+1) L'accès est inacessible ! Il doit bien y avoir un moyen de dégager le chemin !
+
+CAVE
+
+1) Le gardien ne va pas apprécier que je m'introduise dans sa cave. Il faut que je trouve
+un moyen de le faire quitter la maison.
+
+2) La cave est verrouiller. J'imagine que le gardien possède la clé.
+
